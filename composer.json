@@ -1,0 +1,15 @@
+{
+    "name": "nestagermacair/cicd",
+    "autoload": {
+        "psr-4": {
+            "Nestagermacair\\Cicd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammed Rashid",
+            "email": "rashidpvr446@gmail.com"
+        }
+    ],
+    "require": {}
+}
